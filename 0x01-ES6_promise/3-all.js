@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { uploadPhoto, createUser } from './utils';
 
 export default function handleProfileSignup() {
@@ -6,8 +7,8 @@ export default function handleProfileSignup() {
     const createUserfirstName = result[1].firstName;
     const createUserlastName = result[1].lastName;
 
-    console.log(`${uploadPhotoBody} ${createUserfirstName} ${createUserlastName}`)
+    console.log(`${uploadPhotoBody} ${createUserfirstName} ${createUserlastName}`);
   }).catch((error) => {
-    console.log('Signup system offline')
-  })
+    console.log('Signup system offline');
+  });
 }
