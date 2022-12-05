@@ -1,6 +1,6 @@
 # 0x03. ES6 data manipulation
 
-![Array everywere](https://raw.images.ctfassets.net/pzhspng2mvip/7jcF7XfduV9XgOImKsxXRk/f7a3712b11485e2aadb1d1bfa5fe3fe9/arrays-everywhere.jpg "Arrays")
+![image](https://raw.images.ctfassets.net/pzhspng2mvip/7jcF7XfduV9XgOImKsxXRk/f7a3712b11485e2aadb1d1bfa5fe3fe9/arrays-everywhere.jpg)
 
 ## Resources
 
