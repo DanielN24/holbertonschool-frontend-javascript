@@ -1,6 +1,6 @@
 # 0x03. ES6 data manipulation
 
-![Array everywere](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/12/6ab7bec4727cb5c91257.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20221205%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20221205T125340Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=21a1d0713b2fa813f3d3fd0072980f3a136d0a5a4f80a93333361c23a79f1b62 "Arrays")
+![Array everywere](https://images.ctfassets.net/pzhspng2mvip/7jcF7XfduV9XgOImKsxXRk/f7a3712b11485e2aadb1d1bfa5fe3fe9/arrays-everywhere.jpg"Arrays")
 
 ## Resources
 
