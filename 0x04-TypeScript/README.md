@@ -1,7 +1,5 @@
 # 0x04. Typescript
 
-![image](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/12/baea85b5e9a9fb5c36ec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20221207%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20221207T152950Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=cdc7f7eb9f0d81854cdbedd1c5aa223c02be480a44207d16b367bcb56d78e7fd)
-
 ## Resources
 
 Read or watch:
